@@ -1,0 +1,34 @@
+.navbar-color {
+
+    width: 100%;
+    height: 100%;
+    background-color: white;
+    box-shadow: 2px 3px 5px 0px rgba(176, 153, 153, 0.75);
+    -webkit-box-shadow: 2px 3px 5px 0px rgba(176, 153, 153, 0.75);
+    -moz-box-shadow: 2px 3px 5px 0px rgba(176, 153, 153, 0.75);
+
+}
+.links{
+    color: #2C2C54;
+    text-decoration: none;
+    margin-left: 30px;
+}
+.links:hover{
+    color: orangered !important;
+}
+
+.navbar-color:hover {
+    color: var(--orange);
+}
+
+.icons a {
+    font-size: 1.5rem;
+    color: #2C2C54;
+    margin-left: 1.5rem;
+    /* list-style: none; */
+    text-decoration: none;
+}
+
+.icons a:hover {
+    color: orangered;
+}

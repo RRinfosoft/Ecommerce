@@ -1,0 +1,93 @@
+.review-blue{
+    text-align: center;
+    font-size: 2.4rem;
+    color: #282850;
+    font-family: serif;
+    font-weight: 400;
+    margin-top: 100px;
+    }
+.review-yellow{
+    font-size: 2.4rem;
+    color:#FF9F1A;
+    font-family: serif;
+    font-weight: 400;
+}
+.review-img{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    background-color: gray;
+    margin: auto !important;
+    margin-top: 30px !important;
+}
+.set-review-img{
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+}
+
+.Review-name{
+    text-align: center;
+    font-size: 2rem;
+    font-family: serif;
+    margin-top: 20px;
+    color:#282850;
+}
+.item-data{
+    text-align: center;
+    font-size: 1.1rem;
+    font-family: serif;
+    margin-top: 20px;
+    color:gray;
+    padding: 10px 20px 10px 20px;
+    margin-top: -10px;
+}
+.Review-star{
+    text-align: center;
+    font-family: serif;
+    font-size: 2rem;
+    color: #FF9F1A;
+}
+.Newsletter{
+    width: 100%;
+    height: 100%;
+    background-color: #F2F2F2;
+    margin-top: 50px;
+    border: 1px solid gray;
+}
+.Newsletter-text{
+    text-align: center;
+    font-size: 2rem;
+    font-family: serif;
+    color: #282850;
+    padding-top: 30px !important;
+}
+.New-data{
+    text-align: center;
+    font-family: serif;
+    color: gray;
+    font-size: 1.1rem;
+}
+.input{
+    margin: auto !important;
+    width: 30%;
+    height: 40px;
+    border: 2px solid #282850;
+}
+.NewSletter-butn{
+    margin: auto !important;
+    height: 40px;
+    width: 100px;
+    border: 2px solid #282850;
+    color:#282850 ;
+}
+.NewSletter-butn:hover{
+    background-color: #FF9F1A;
+    color: white;
+    font-weight: bold;
+    font-family: serif;
+}
+.Review-Cards{
+    background-color:#F2F2F2  !important;
+    border: 1px solid #282850;
+}
